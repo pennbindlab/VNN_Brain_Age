@@ -39,4 +39,4 @@ Contact sihags@pennmedicine.upenn.edu for the following.
      statsmodels.api==0.13.3
      nibabel==3.2.1
      
-7.delat_age_code.py: This file contains the code for brain age evaluation from VNN outputs after age-bias correction. 
+7.delta_age_code.py: This file contains the code for brain age evaluation from VNN outputs after age-bias correction. 
